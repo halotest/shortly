@@ -1,5 +1,5 @@
 # Shortly
-## _by Sergey Komarov_
+## _Short link generator_
 Bootstrapped with **expo**
 
 - Insert a url
