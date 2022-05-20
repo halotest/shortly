@@ -1,0 +1,10 @@
+{
+    "extends": [
+        "@react-native-community"
+    ],
+    "rules": {
+        "semi": "off",
+        "react/react-in-jsx-scope": "off",
+        "keyword-spacing": "off"
+    }
+}

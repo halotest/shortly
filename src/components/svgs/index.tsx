@@ -1,0 +1,6 @@
+export { Illustration } from './illustration'
+export { Logo } from './logo'
+export { FooterShape } from './footerShape'
+export { Del } from './del'
+export { BottomShadow } from './bottomShadow'
+export { TopShadow } from './topShadow'
